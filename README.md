@@ -32,3 +32,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Kaizen&langs_count=8&theme=radical&layout=pie)]()
 
+## Add me on Discord
+
+<a href="https://discord.com/users/284671651684286464">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xlZGRvdTAybm15ZHE5ZHZzcjhkZDNob2p6NzBmeHNnNGQxdndwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IPnvQOHS2GewmzVKKm/giphy.gif" alt="Merserk GIF" width="200" height="200"/>
+  </a>
+</div>
+
+- Discord: [@ciphercraftsman](https://discordapp.com/users/1088179380238426213)
+
+
+<p align="center">      
+        <img src ="https://media.tenor.com/RizT-AtAcfkAAAAd/berserk-guts.gif" width="1100" />
+</p>
