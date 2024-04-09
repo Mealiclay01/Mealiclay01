@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kaizen&label=Profile%20views&color=0e75b6&style=flat" alt="its-kaizen" /> </p>
 
-- 🔭 I’m studying [software engineering](https://github.com/Its-Kaizen)
+- 🔭 I’m studying [software engineering](https://github.com/Mealiclay01)
 
 - 🌱 I’m currently learning **C and C++**
 
