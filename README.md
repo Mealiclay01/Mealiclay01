@@ -4,9 +4,15 @@
 
 [![MasterHead](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)](https://github.com/Mealiclay01)
 <h3 align="center">A passionate software engineering student from Morocco 🇲🇦</h3>
+
+ ![Mealiclay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mealiclay01&show_icons=true&theme=radical)
+
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mealiclay01&show_icons=true&locale=en" alt="Mealiclay01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mealiclay01&" alt="Mealiclay01" /></p>
+
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/81465929073340495/E6F64A1452B8609AB04A11E4FF5A20F3C208FB67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kaizen&label=Profile%20views&color=0e75b6&style=flat" alt="its-kaizen" /> </p>
 
 - 🔭 I’m studying [software engineering](https://github.com/Mealiclay01)
 
