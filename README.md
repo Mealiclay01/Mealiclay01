@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me **contact#anasrhimi.tech**
+- 📫 How to reach me **contact@anasrhimi.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
