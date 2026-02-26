@@ -5,19 +5,13 @@
 [![MasterHead](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)](https://github.com/Mealiclay01)
 <h3 align="center">A passionate software engineering student from Morocco 🇲🇦</h3>
 
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/greenbinary/arhimi" alt="arhimi's 42 stats" />
-  </a>
-</p>
-
 - 🔭 I’m studying [software engineering](https://github.com/Mealiclay01)
 
 - 🌱 I’m currently learning **C and C++**
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me **fsocietyyys.2@gmail.com**
+- 📫 How to reach me **contact#anasrhimi.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
