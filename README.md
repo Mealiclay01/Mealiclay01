@@ -3,6 +3,10 @@
 <h3 align="center">DevOps Engineer & Linux Specialist from Morocco 🇲🇦</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1A8CFF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Linux+Specialist;Docker+%7C+Kubernetes+%7C+Terraform+%7C+Ansible;If+I+do+it+twice%2C+I+automate+it+%F0%9F%A4%96;Open+to+freelance+%26+collaboration!" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://anasrhimi.tech">
     <img src="https://img.shields.io/badge/Portfolio-1A3A5C?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
@@ -12,6 +16,7 @@
   <a href="mailto:contact@anasrhimi.tech">
     <img src="https://img.shields.io/badge/Email-1A3A5C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Mealiclay01&label=Profile+Views&color=1A3A5C&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -83,6 +88,18 @@ I’m open to **freelance projects**, **collaborations**, and **challenging DevO
   <code><img alt="VSCode" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"></code>
   <code><img alt="Vim" title="Vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="42"></code>
   <code><img alt="NPM" title="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="42"></code>
+</p>
+
+<hr>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mealiclay01/Mealiclay01/main/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mealiclay01/Mealiclay01/main/assets/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Mealiclay01/Mealiclay01/main/assets/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <hr>
