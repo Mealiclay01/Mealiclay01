@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" alt="MasterHead"/>
+  <img src="https://raw.githubusercontent.com/Mealiclay01/Mealiclay01/main/assets/header.gif" alt="MasterHead"/>
 </p>
 
 <hr>
@@ -90,8 +90,8 @@ I’m open to **freelance projects**, **collaborations**, and **challenging DevO
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mealiclay01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mealiclay01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mealiclay01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mealiclay01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -108,19 +108,19 @@ I’m open to **freelance projects**, **collaborations**, and **challenging DevO
 
 <p align="center">
   <a href="https://github.com/Mealiclay01/linux-monitoring-alerts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=linux-monitoring-alerts&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=linux-monitoring-alerts&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="linux-monitoring-alerts" />
   </a>
   <a href="https://github.com/Mealiclay01/log-analyzer-ar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=log-analyzer-ar&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=log-analyzer-ar&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="log-analyzer-ar" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mealiclay01/sky-cube-runner-3d">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=sky-cube-runner-3d&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=sky-cube-runner-3d&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="sky-cube-runner-3d" />
   </a>
   <a href="https://github.com/Mealiclay01/42-piscine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=42-piscine&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=42-piscine&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="42-piscine" />
   </a>
 </p>
 
