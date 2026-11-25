@@ -27,21 +27,20 @@
 
 ## 🤔 About Me
 
-Hey there! I’m **Anas Rhimi**, a **DevOps Engineer & Linux Specialist** based in **Casablanca, Morocco**.
-I design and automate infrastructure that is **reliable, secure, and scalable**.
+Hey there! I’m **Anas Rhimi**, a **Founder & Principal Platform Architect / DevOps Engineer** based in **Casablanca, Morocco**.
+I design and automate infrastructure that is **reliable, secure, sovereign, and scalable** across Morocco, the GCC, and Europe.
 
 If I do something twice, I automate it. 🤖
 
-I’m passionate about **AI agents**, **self-hosted systems**, and everything **Linux**.
-I’m open to **freelance projects**, **collaborations**, and **challenging DevOps opportunities**.
+I’m focused on **immutable bare-metal Kubernetes**, **sovereign AI automation**, **Model Context Protocol (MCP)** tooling, and **macOS developer systems**.
 
 ### 🧐 More About Me
 
-- 🔭 Working as **Freelance DevOps & Linux Engineer** on Upwork & Mostaql
-- 🛠️ Specialized in **Docker, Kubernetes, Terraform, Ansible, CI/CD**
-- 🌱 Currently exploring **AI agents & LLM tooling**
-- 🏗️ Building my home lab on **Proxmox VE** with k3s, pfSense & WireGuard
-- 💬 Ask me about **Linux, DevOps, networking, C/C++**
+- 🔭 Founder of [**anasrhimi.tech**](https://anasrhimi.tech) — Platform Engineering, Sovereign Cloud & AI Automation
+- 🛠️ Specialized in **Kubernetes (Talos Linux, Cilium eBPF), OpenTofu/Terraform, PostgreSQL HA, n8n, vLLM, & FinOps**
+- ⚡ Creator of [**WolrdPulse**](https://wolrdpulse.app) (MCP Telemetry Server) & [**DontCloseMe**](https://github.com/Mealiclay01/DontCloseMe) (macOS AI Agent Lid Guardian)
+- 🏗️ Building production bare-metal clusters on **Proxmox VE, Hetzner, & OVH** with WireGuard & SOPS
+- 💬 Ask me about **Kubernetes, Linux internals, DevSecOps, GEO/LLMEO, Swift, & C/C++**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anas-rhimi) or at **contact@anasrhimi.tech**
 - 📝 Visit my [portfolio](https://anasrhimi.tech)
 
