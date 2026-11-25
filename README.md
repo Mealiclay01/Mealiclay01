@@ -68,6 +68,7 @@ I’m open to **freelance projects**, **collaborations**, and **challenging DevO
   <code><img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"></code>
   <code><img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"></code>
   <code><img alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42"></code>
+  <code><img alt="Swift" title="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42"></code>
   <code><img alt="PHP" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42"></code>
   <code><img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"></code>
 </p>
@@ -124,11 +125,11 @@ I’m open to **freelance projects**, **collaborations**, and **challenging DevO
 ## 📘 Featured Open Source Projects
 
 <p align="center">
-  <a href="https://github.com/Mealiclay01/linux-monitoring-alerts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=linux-monitoring-alerts&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="linux-monitoring-alerts" />
+  <a href="https://github.com/Mealiclay01/wolrdpulse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=wolrdpulse&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="wolrdpulse" />
   </a>
-  <a href="https://github.com/Mealiclay01/log-analyzer-ar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=log-analyzer-ar&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="log-analyzer-ar" />
+  <a href="https://github.com/Mealiclay01/DontCloseMe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mealiclay01&repo=DontCloseMe&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="DontCloseMe" />
   </a>
 </p>
 
